@@ -21,7 +21,6 @@ Estudante de Bacharelado em Engenharia de Software - UCSAL
 
 <br><br><br>
 
-### Linguagens e Tecnologias
 
 <img
     align="left"
