@@ -2,28 +2,9 @@
 
 Estudante de Bacharelado em Engenharia de Software - UCSAL
 
----
-
 ### Linguagens e Tecnologias
 
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="40"
-    height="50" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>        
-<img
-    align="left"
-    alt="Spring"
-    title="Spring"
-    width="40"
-    height="50" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
+
 <img 
     align="left" 
     alt="HTML"
