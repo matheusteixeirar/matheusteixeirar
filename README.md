@@ -2,25 +2,9 @@
 
 Estudante de Bacharelado em Engenharia de Software - UCSAL
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180em" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusteixeirar&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteixeirar&theme=tokyonight&layout=compact" 
-  />
-</p>
-
-<br><br><br>
-
+### Linguagens e Tecnologias
 
 <img
     align="left"
@@ -68,5 +52,22 @@ Estudante de Bacharelado em Engenharia de Software - UCSAL
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-          
+<br/>
+<br/>
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180em" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusteixeirar&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteixeirar&theme=tokyonight&layout=compact" 
+  />
+</p>          
