@@ -17,10 +17,10 @@ Estudante de Bacharelado em Engenharia de Software - UCSAL
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteixeirar&theme=tokyonight&layout=compact" 
   />
-
 </p>
 
-
+<br/>
+<br/>
 
 <img
 align="left"
