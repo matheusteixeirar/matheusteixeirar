@@ -24,8 +24,9 @@ Estudante de Bacharelado em Engenharia de Software - UCSAL
 
 <img
 align="left"
-alt="Spring"
-title="Spring"
+alt="Java"
+title="Java"
+width="30px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />        
@@ -33,6 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 align="left"
 alt="Spring"
 title="Spring"
+width="30px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
