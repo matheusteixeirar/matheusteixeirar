@@ -1,27 +1,36 @@
-## Bem-vindo ao meu Perfil!
+<h3 align="left">Bem-vindo ao meu Perfil!</h3>
 
-Estudante de Bacharelado em Engenharia de Software - UCSAL
+###
 
-<p style="display: flex; align-items: center;">
-  <img 
-    alt="GitHub Stats" 
-    height="170em" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusteixeirar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-  <img  
-    alt="GitHub Stats" 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteixeirar&theme=tokyonight&layout=compact" 
-  />
-</p>
+<p align="left">Estudante de Bacharelado em Engenharia de Software - UCSAL</p>
 
-### Linguagens e Tecnologias
+###
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Spring" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusteixeirar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusteixeirar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheusteixeirar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
